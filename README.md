@@ -1,6 +1,43 @@
-# Students_attendance_System (Developed By: raldztech)
-# INTRODUCTION
-Due  to  student’s  interest  in  classrooms,  and whose is the largest union in the study environment of university  or  institution,  so  recording  absence  at  a department  having  a  large  number  of  students  in  a classroom  is  a  difficult  task  and  time-consuming. Moreover,  the  process  takes  much  time,  and  many efforts  are  spent  by  the  staff  of  the  department  to complete  the attendance  rates for  each  student. So  in many  institutions  and  academic  organizations, attendance is a  very important  criterion which  is used for  various  purposes.  These  purposes  include  record keeping,  assessment  of  students,  and  promotion  of optimal and consistent attendance in class. As long as in many developing  countries, a  minimum percentage  of class attendance is required in most institutions and this policy has not  been adhered to, because of the various challenges  the  present  method  of  taking  attendance presents.  The  process  of  recording  attendances  for students  was in  the  form of  hardcopy papers  and the system  was manually done.  Besides wasting  time and taking efforts for preparing sheets and documents, other disadvantages may be visible to the traditional one due to loss or damage to the sheets-sheet could be stolen. The  developed  system  considers  as  an alternative  to  the  traditional  one,  it  is  easy,  fast  and reliable  than  the  traditional  one,  especially  after  the development  of information  technology  and  its usage by  educational  institutions.  Therefore,  the  design  of student  attendance  system  has  a  significant  reality meaning.
-The  system  is  a  Desktop  application developed  for daily  student attendance  in departments within  the  university.  It  facilitates  access  to  the attendance of  a particular student in  a particular class.
+# Students Attendance System
 
-administrator Username and Password: admin
+This is a C++ program for managing student attendance records using a MySQL database. It allows instructors to view and update attendance records for multiple courses and classes.
+
+## Features
+
+- Add and remove students, courses, and classes
+- View attendance records for individual students, courses, and classes
+- Update attendance records for individual students in real-time
+- Generate reports on student attendance for individual courses or across multiple courses
+
+## Technologies Used
+
+- C++ programming language
+- MySQL database
+- ODBC connector for C++ (unixODBC)
+- ncurses library for command-line interface
+
+## Setup and Usage
+
+To use this program, you will need to have MySQL and unixODBC installed on your system. You can then download the source code and compile it using a C++ compiler of your choice.
+
+Once compiled, you can run the program using the command-line interface. The program will prompt you to enter your MySQL username and password, after which you can start managing attendance records.
+
+For more detailed instructions on how to set up and use the program, please refer to the documentation in the `docs` directory.
+
+## Contributions
+
+Contributions to this project are welcome! If you find any bugs or would like to suggest new features, please feel free to create an issue or submit a pull request.
+
+## Credits
+
+This program was developed by raldztech. Special thanks to the following individuals for their contributions:
+
+- [Ma`am Janett Claro MIT]()
+
+
+## License
+
+This program is licensed under the [MIT License](insert link here).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](insert link here)
+
