@@ -34,6 +34,9 @@ This program was developed by raldztech. Special thanks to the following individ
 
 - [Ma`am Janett Claro MIT]()
 
+## Donations
+    
+    <a href="https://www.patreon.com/user?u=84868330" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## License
 
