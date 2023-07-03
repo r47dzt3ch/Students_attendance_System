@@ -37,8 +37,8 @@ This program was developed by raldztech. Special thanks to the following individ
 ## Donations
 
 [![Become a Patron!] (https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/user?u=84868330)
- 
 
+If you find this project useful, please consider making a donation to support the developer.
 
 
 ## License
