@@ -35,10 +35,9 @@ This program was developed by raldztech. Special thanks to the following individ
 - [Ma`am Janett Claro MIT]()
 
 ## Donations
-    <!-- patreon -->
-    [![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/user?u=84868330)
-    <!-- Buy me a cofee -->
-    <a href="https://buymeacoffee.com/R47dzT3ch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="210px"></a>
+
+    [![Become a Patron!] (https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/user?u=84868330)
+ 
 
 
 
