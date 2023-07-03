@@ -35,8 +35,12 @@ This program was developed by raldztech. Special thanks to the following individ
 - [Ma`am Janett Claro MIT]()
 
 ## Donations
-    
-    <a href="https://www.patreon.com/user?u=84868330" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+    <!-- patreon -->
+    [![Become a Patron!](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/user?u=84868330)
+    <!-- Buy me a cofee -->
+    <a href="https://buymeacoffee.com/R47dzT3ch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="210px"></a>
+
+
 
 ## License
 
